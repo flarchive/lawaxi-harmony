@@ -1,0 +1,39 @@
+{
+    "name": "lawaxi/harmony",
+    "description": "将未登录时的论坛伪装成博客 (用于中国大陆个人备案)",
+    "keywords": [
+        "extension",
+        "flarum",
+		"china"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lawaxi",
+            "email": "2330234142@qq.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/Lawaxi/harmony",
+        "source": "https://github.com/Lawaxi/harmony",
+        "forum": "http://a.piece.of.shit/"
+    },
+    "require": {
+        "flarum/core": "^1.0.2"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Harmony",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-poo",
+                "backgroundColor": "#fff",
+                "color": "#8B4513"
+            }
+        },
+        "flagrow": {
+            "discuss": "http://a.piece.of.shit/"
+        }
+    }
+}
