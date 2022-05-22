@@ -1,0 +1,12 @@
+lawaxi-harmony:
+  admin:
+    settings:
+      allown: 允许显示的用户名称
+      blogtitle: 站名
+      blogsubtitle: 站信息
+      ban: 敏感词
+      bantags: 敏感标签(slug)
+  forum:
+    post_number1: 楼主
+    post_number2: 沙发
+    post_number3: 板凳
