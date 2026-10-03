@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of lawaxi/harmony.** Not for installation: use [Packagist](https://packagist.org/packages/lawaxi/harmony) or the [upstream repository](https://github.com/Lawaxi/harmony).
 
-**0** versions archived · Latest: [`4.1.1`](https://github.com/flarchive/lawaxi-harmony/tree/archive/v4.1.1) · License: `MIT` · Flarum: `^1.0.2`
+**35** versions archived · Latest: [`4.1.1`](https://github.com/flarchive/lawaxi-harmony/tree/archive/v4.1.1) · License: `MIT` · Flarum: `^1.0.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1` | 2022-02-12 | `^1.0.2` | [Browse](https://github.com/flarchive/lawaxi-harmony/tree/archive/v1) |
+| `1.1` | 2022-02-12 | `^1.0.2` | [Browse](https://github.com/flarchive/lawaxi-harmony/tree/archive/v1.1) |
+| `1.2` | 2022-02-12 | `^1.0.2` | [Browse](https://github.com/flarchive/lawaxi-harmony/tree/archive/v1.2) |
+| `1.3` | 2022-02-12 | `^1.0.2` | [Browse](https://github.com/flarchive/lawaxi-harmony/tree/archive/v1.3) |
+| `1.4` | 2022-02-12 | `^1.0.2` | [Browse](https://github.com/flarchive/lawaxi-harmony/tree/archive/v1.4) |
+| `1.5` | 2022-02-12 | `^1.0.2` | [Browse](https://github.com/flarchive/lawaxi-harmony/tree/archive/v1.5) |
+| `1.5.5` | 2022-02-12 | `^1.0.2` | [Browse](https://github.com/flarchive/lawaxi-harmony/tree/archive/v1.5.5) |
+| `2` | 2022-02-13 | `^1.0.2` | [Browse](https://github.com/flarchive/lawaxi-harmony/tree/archive/v2) |
+| `2.1` | 2022-02-13 | `^1.0.2` | [Browse](https://github.com/flarchive/lawaxi-harmony/tree/archive/v2.1) |
+| `2.2` | 2022-02-13 | `^1.0.2` | [Browse](https://github.com/flarchive/lawaxi-harmony/tree/archive/v2.2) |
+
+[View all 35 versions](https://github.com/flarchive/lawaxi-harmony/tags)
 
 Catalog entry: [packages/lawaxi-harmony.json](https://github.com/flarchive/archive-index/blob/main/packages/lawaxi-harmony.json)
 
